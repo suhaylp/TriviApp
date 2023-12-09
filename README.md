@@ -1,6 +1,6 @@
-# CPSC 210 - Trivia Project
+# Personal Trivia Project
 
-## Phase 00:
+## Pre-planning
 ### Key Idea: Trivia Game / Tool
 - **All code** will be written in Java
 - The main concept is a trivia application with the option to answer questions *from the player's chosen topic*
@@ -31,7 +31,6 @@
 - No absolute paths will be used
 - It is not a To-Do list (nor is it similar to one)
 
-## Phase 1:
 ### User stories
 - As a user, I want to be able to add any amount of questions/answer pairs to topic
 - As a user, I want to be able to add any number of topics to the Trivia game
@@ -42,20 +41,17 @@
 - As a user, I want to be able to play the Trivia game with a topic of my choice
 - As a user, I want to see my score once I've completed answering the questions within a topic
 
-## Phase 2:
 ### Additional User Stories
 - As a user, when I'm in the main menu, I want to have the option to save my changes to the topics and questions
 - As a user, when I start the application, I want to be given the option to load my previous topics and questions
 
-## Phase 3:
-### Instructions for Grader
+### Additional Information
 - You can generate the first required action related to adding Xs to a Y by clicking Load Topics -> Edit Topics -> Edit Topic -> Select Topic -> Add Questions 
 - You can generate the second required action related to adding Xs to a Y by clicking Load Topics -> Edit Topics -> Edit Topic -> Select Topic -> Remove Questions
 - You can locate my visual component by launching the app or heading to the main menu
 - You can save the state of my application by clicking save topics on the main menu
 - You can reload the state of my application by clicking load topics on the main menu
 
-## Phase 4 - Part 2:
 ### *Sample Event Log Output*
 
 Trivia Application Event Log:\
@@ -76,7 +72,6 @@ List of all questions in topic Test Topic 1 displayed.\
 Thu Nov 30 22:34:53 PST 2023\
 List of all questions in topic Test Topic 1 displayed.
 
-## Phase 4 - Part 2:
 ### Final Reflection
 
 The design presented in my UML is fairly simple to understand, however there is a lot of repeated elements (ex. 16 action listener classes that each have a field of TriviaGUI).
