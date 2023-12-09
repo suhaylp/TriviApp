@@ -1,0 +1,195 @@
+{"topics": [
+  {
+    "topic name": "Math",
+    "q/a pairs": [
+      {
+        "question": "What is 5 + 5?",
+        "answer": "10"
+      },
+      {
+        "question": "What is 7 * 4?",
+        "answer": "28"
+      },
+      {
+        "question": "What is 15 / 3?",
+        "answer": "5"
+      },
+      {
+        "question": "What is 10 - 3?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the square root of 64?",
+        "answer": "8"
+      },
+      {
+        "question": "What is 12 x 6?",
+        "answer": "72"
+      },
+      {
+        "question": "What is 24 / 4?",
+        "answer": "6"
+      },
+      {
+        "question": "What is 2 raised to the power of 5?",
+        "answer": "32"
+      },
+      {
+        "question": "What is the value of pi (π) to two decimal places?",
+        "answer": "3.14"
+      },
+      {
+        "question": "What is the sum (in degrees) of the interior angles of a triangle?",
+        "answer": "180"
+      },
+      {
+        "question": "What is the next prime number after 7?",
+        "answer": "11"
+      },
+      {
+        "question": "What is the value of the square root of 81?",
+        "answer": "9"
+      },
+      {
+        "question": "What is the value of 5 factorial (5!)?",
+        "answer": "120"
+      }
+    ]
+  },
+  {
+    "topic name": "Music",
+    "q/a pairs": [
+      {
+        "question": "What is the 3 letter acronym that song speed often measured in?",
+        "answer": "BPM"
+      },
+      {
+        "question": "What is the legal first name of famous artist Drake?",
+        "answer": "Aubrey"
+      },
+      {
+        "question": "What is the name of the Beatles' lead guitarist?",
+        "answer": "George Harrison"
+      },
+      {
+        "question": "Who is known as the 'King of Pop'?",
+        "answer": "Michael Jackson"
+      },
+      {
+        "question": "Which instrument did Louis Armstrong play?",
+        "answer": "Trumpet"
+      },
+      {
+        "question": "Which famous singer is known for the song 'Hello'?",
+        "answer": "Adele"
+      },
+      {
+        "question": "What is the name of the band that performed 'Bohemian Rhapsody'?",
+        "answer": "Queen"
+      },
+      {
+        "question": "Which singer's real name is Stefani Joanne Angelina Germanotta?",
+        "answer": "Lady Gaga"
+      },
+      {
+        "question": "What is the term for the gradual increase in loudness in a piece of music?",
+        "answer": "Crescendo"
+      },
+      {
+        "question": "What is the 3 letter acronym for the genre of music characterized by its use of electronic instruments and danceable beat?",
+        "answer": "EDM"
+      },
+      {
+        "question": "What is the last name of the composer who wrote 'Moonlight Sonata'?",
+        "answer": "Beethoven"
+      }
+    ]
+  },
+  {
+    "topic name": "History",
+    "q/a pairs": [
+      {
+        "question": "What is former U.S. president Obama's first name?",
+        "answer": "Barack"
+      },
+      {
+        "question": "In which year did the French Revolution begin?",
+        "answer": "1789"
+      },
+      {
+        "question": "What was the name of the man who crossed the Alps with elephants during the Punic Wars?",
+        "answer": "Hannibal"
+      },
+      {
+        "question": "What is the last name of the first President of the United States?",
+        "answer": "Washington"
+      },
+      {
+        "question": "In which city was the famous Berlin Wall located?",
+        "answer": "Berlin"
+      }
+    ]
+  },
+  {
+    "topic name": "Science",
+    "q/a pairs": [
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answer": "Au"
+      },
+      {
+        "question": "What is the unit of measurement for force?",
+        "answer": "Newton"
+      },
+      {
+        "question": "What is the study of the Earth's physical structure and substance called?",
+        "answer": "Geology"
+      },
+      {
+        "question": "What is the smallest unit of an element that retains the chemical properties of that element?",
+        "answer": "Atom"
+      },
+      {
+        "question": "What is the phenomenon in which light is separated into its component colors?",
+        "answer": "Dispersion"
+      },
+      {
+        "question": "What is the force that resists the relative motion of solid surfaces, fluid layers, and material elements sliding against each other?",
+        "answer": "Friction"
+      },
+      {
+        "question": "What is the branch of biology that deals with the study of microorganisms?",
+        "answer": "Microbiology"
+      },
+      {
+        "question": "What is the unit used to measure the intensity of sound?",
+        "answer": "Decibel"
+      }
+    ]
+  },
+  {
+    "topic name": "Geography",
+    "q/a pairs": [
+      {
+        "question": "Which continent is known as the 'Land Down Under'?",
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the capital of Russia?",
+        "answer": "Moscow"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answer": "Tokyo"
+      },
+      {
+        "question": "Which country is both an island and a continent?",
+        "answer": "Australia"
+      },
+      {
+        "question": "The imaginary line that divides the Earth into the Northern Hemisphere and the Southern Hemisphere is called the _______?",
+        "answer": "Equator"
+      }
+    ]
+  }
+]}
