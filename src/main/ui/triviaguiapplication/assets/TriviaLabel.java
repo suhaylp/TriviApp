@@ -1,4 +1,4 @@
-package ui.triviaguiapplication;
+package ui.triviaguiapplication.assets;
 
 import javax.swing.*;
 import java.awt.*;

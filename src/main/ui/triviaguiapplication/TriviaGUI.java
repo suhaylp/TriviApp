@@ -8,6 +8,8 @@ import model.Topic;
 import persistence.JsonReader;
 import persistence.JsonWriter;
 import ui.triviaguiapplication.actionlisteners.*;
+import ui.triviaguiapplication.assets.TriviaButton;
+import ui.triviaguiapplication.assets.TriviaLabel;
 
 import javax.swing.*;
 import java.awt.*;
